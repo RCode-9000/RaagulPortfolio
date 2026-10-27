@@ -1,0 +1,31 @@
+{
+  "atlases": {
+    "room": {
+      "file": "lm_room.jpg",
+      "scale": 2.380509853363037
+    },
+    "desk": {
+      "file": "lm_desk.jpg",
+      "scale": 17.458589553833008
+    },
+    "wall": {
+      "file": "lm_wall.jpg",
+      "scale": 3.0845768451690674
+    }
+  },
+  "meshes": {
+    "flag": "room",
+    "static_room": "room",
+    "static_desk": "desk",
+    "monitor": "desk",
+    "laptop": "desk",
+    "lamp": "desk",
+    "backpack": "desk",
+    "phone": "desk",
+    "chair": "desk",
+    "static_wall": "wall",
+    "cork_board": "wall",
+    "static_shelf": "wall",
+    "model_cars": "wall"
+  }
+}
